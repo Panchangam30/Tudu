@@ -5,7 +5,7 @@ const navLinks = [
   { name: "Home", href: "#home" },
   { name: "Features", href: "#features" },
   { name: "Testimonials", href: "#testimonials" },
-  { name: "Get Started", href: "/signup" },
+  { name: "FAQ's", href: "/signup" },
 ];
 
 const typingText = [
